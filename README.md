@@ -9,4 +9,5 @@ Tokens allocation as follows: 150 million tokens distributed to current sharehol
 and 850 millions tokens for future issuing (capital increase) against digital
 assets / currencies.
 
+
 Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
