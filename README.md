@@ -12,4 +12,4 @@ assets / currencies.
 
 Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
 
-Follow us on twitter https://twitter.com/blockchaininv
+Twitter https://twitter.com/blockchaininv
