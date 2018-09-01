@@ -12,7 +12,9 @@ assets / currencies.
 
 Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
 
-https://cryptortrust.com/investor-relation/
+Website https://cryptortrust.com/
+
+Investor Relation https://cryptortrust.com/investor-relation/
 
 Twitter https://twitter.com/blockchaininv
 
