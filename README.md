@@ -17,3 +17,5 @@ Twitter https://twitter.com/blockchaininv
 Telegram https://t.me/blockchainforum
 
 Google+ https://plus.google.com/b/116512527736764720342/
+
+Facebook https://www.facebook.com/blockchaininvestor
