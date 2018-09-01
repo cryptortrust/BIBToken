@@ -15,3 +15,5 @@ Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc
 Twitter https://twitter.com/blockchaininv
 
 Telegram https://t.me/blockchainforum
+
+Google+ https://plus.google.com/b/116512527736764720342/
