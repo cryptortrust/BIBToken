@@ -18,7 +18,7 @@ Twitter https://twitter.com/blockchaininv
 
 Telegram https://t.me/blockchainforum
 
-https://www.linkedin.com/showcase/blockchain-investor-inc-
+Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-
 
 Google+ https://plus.google.com/b/116512527736764720342/
 
