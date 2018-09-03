@@ -23,7 +23,7 @@ Facebook Group https://www.facebook.com/groups/cryptortrust/
 Google Group   https://plus.google.com/u/0/communities/105280240699711172540                                                          
 VK Group       https://vk.com/club87272980                                                                                          
 
-Blogs 
+Blogs                                                                                                                               
 News https://cryptortrust.com/news/news/                                                     
 Blockchain Investor Blog https://cryptortrust.com/bitcoin-investor-blog/                                                               
 
