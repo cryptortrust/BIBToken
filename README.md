@@ -16,14 +16,18 @@ Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange in
 Website https://cryptortrust.com/
 Investor Relation https://cryptortrust.com/investor-relation/                                                   
 
+Groups/ Forums                                                                                                                      
 Telegram Group https://t.me/blockchainforum                                                                                    
 Linkedin Group https://www.linkedin.com/groups/6580131                                                                               
 Facebook Group https://www.facebook.com/groups/cryptortrust/                                                                          
 Google Group   https://plus.google.com/u/0/communities/105280240699711172540                                                          
 VK Group       https://vk.com/club87272980                                                                                          
 
-Blog https://cryptortrust.com/news/news/                                                                                         
+Blogs 
+News https://cryptortrust.com/news/news/                                                     
+Blockchain Investor Blog https://cryptortrust.com/bitcoin-investor-blog/                                                               
 
+Pages                                                                                                                    
 Facebook https://www.facebook.com/cryptortrust                                                                                   
 Twitter https://twitter.com/CryptorTrust   
 Google https://plus.google.com/+Cryptortrust                                                                                        
