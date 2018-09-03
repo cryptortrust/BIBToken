@@ -24,7 +24,7 @@ Facebook https://www.facebook.com/cryptortrust
 Twitter https://twitter.com/CryptorTrust                                                                                                
 BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary                                                        
 
-Blockchain Investor Bearer Token
+Blockchain Investor Bearer Token                                                                                                   
 Twitter https://twitter.com/blockchaininv                                                                                          
 Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-                                                                 
 Google+ https://plus.google.com/b/116512527736764720342/                                                                           
