@@ -22,9 +22,18 @@ Facebook Group https://www.facebook.com/groups/cryptortrust/
 Google Group   https://plus.google.com/u/0/communities/105280240699711172540                                                          
 VK Group       https://vk.com/club87272980                                                                                          
 
-Blog https://cryptortrust.com/news/news/                                                                                                  
+Blog https://cryptortrust.com/news/news/                                                                                         
+
 Facebook https://www.facebook.com/cryptortrust                                                                                   
-Twitter https://twitter.com/CryptorTrust                                                                                                
+Twitter https://twitter.com/CryptorTrust   
+Google https://plus.google.com/+Cryptortrust                                                                                        
+Linkedin https://www.linkedin.com/company/cryptortrust                                                                        
+Feedburner http://feeds.feedburner.com/CryptorTrust                                                      
+Instagram https://www.instagram.com/cryptortrust/                                                                             
+Youtube https://www.youtube.com/user/cryptortrust/                                                                             
+Pininterest https://www.pinterest.com/cryptortrust/                                                                         
+VK https://vk.com/public86708058
+Tumblr http://cryptortrust.tumblr.com/
 BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary   
 Slack https://cryptortrust.slack.com
 Reddit https://old.reddit.com/r/cryptortrust/                                                                                
