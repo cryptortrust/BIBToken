@@ -18,7 +18,7 @@ Website https://cryptortrust.com/
 Investor Relation https://cryptortrust.com/investor-relation/                                                                
 Blog https://cryptortrust.com/news/news/                                                                                          
 Reddit https://old.reddit.com/r/cryptortrust/                                                                                     
-Slack cryptortrust.slack.com                                                                                               
+Slack https://cryptortrust.slack.com                                                                                               
 Facebook https://www.facebook.com/cryptortrust                                                                                   
 Twitter https://twitter.com/CryptorTrust                                                                                                
 BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary                                                        
