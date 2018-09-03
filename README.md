@@ -32,8 +32,8 @@ Feedburner http://feeds.feedburner.com/CryptorTrust
 Instagram https://www.instagram.com/cryptortrust/                                                                             
 Youtube https://www.youtube.com/user/cryptortrust/                                                                             
 Pininterest https://www.pinterest.com/cryptortrust/                                                                         
-VK https://vk.com/public86708058
-Tumblr http://cryptortrust.tumblr.com/
+VK https://vk.com/public86708058                                                                                                    
+Tumblr http://cryptortrust.tumblr.com/                                                                                                
 BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary   
 Slack https://cryptortrust.slack.com
 Reddit https://old.reddit.com/r/cryptortrust/                                                                                
