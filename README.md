@@ -15,8 +15,14 @@ Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc
 
 Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange in the 4th quarter 2018.                  
 Website https://cryptortrust.com/
-Investor Relation https://cryptortrust.com/investor-relation/  
+Investor Relation https://cryptortrust.com/investor-relation/                                                   
+
 Telegram Group https://t.me/blockchainforum
+Linkedin Group https://www.linkedin.com/groups/6580131
+Facebook Group https://www.facebook.com/groups/cryptortrust/
+Google Group   https://plus.google.com/u/0/communities/105280240699711172540
+VK Group       https://vk.com/club87272980
+
 Blog https://cryptortrust.com/news/news/                                                                                                  
 Facebook https://www.facebook.com/cryptortrust                                                                                   
 Twitter https://twitter.com/CryptorTrust                                                                                                
