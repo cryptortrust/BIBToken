@@ -17,12 +17,12 @@ Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange in
 Website https://cryptortrust.com/
 Investor Relation https://cryptortrust.com/investor-relation/  
 Telegram Group https://t.me/blockchainforum
-Blog https://cryptortrust.com/news/news/                                                                                          
-Reddit https://old.reddit.com/r/cryptortrust/                                                                                     
-Slack https://cryptortrust.slack.com                                                                                               
+Blog https://cryptortrust.com/news/news/                                                                                                  
 Facebook https://www.facebook.com/cryptortrust                                                                                   
 Twitter https://twitter.com/CryptorTrust                                                                                                
-BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary                                                        
+BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary   
+Slack https://cryptortrust.slack.com
+Reddit https://old.reddit.com/r/cryptortrust/                                                                                
 
 Blockchain Investor Bearer Token                                                                                                   
 Twitter https://twitter.com/blockchaininv                                                                                          
