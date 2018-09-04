@@ -1,9 +1,7 @@
-Contract BIBToken,
-
 Blockchain Investor Bearer Token,
 Ticker "BIB",
 Total Supply 1000.000.000 BIB tokens,
-4 Decimals,
+4 Decimals, Contract BIBToken,
 
 Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor Inc. (former Cryptor Latam Inc.) and 850 millions tokens for future issuing (capital increase) against digital
 assets / currencies.
