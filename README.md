@@ -42,8 +42,7 @@ Reddit https://old.reddit.com/r/cryptortrust/
 
 Web3                                                                                                                                 
 OpenBazaar ID QmcLfrGiJVXFfzJWSB87tv4GJ7KNPfSw6y2vxJpmyBvpq3
-or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines like  BlockBooth on the web to find us.
-Blockchain Asset Exchange: To be launched in the 4th quarter 2018.
+or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines like  BlockBooth on the web to find us.                          Blockchain Asset Exchange: To be launched in the 4th quarter 2018.                                                                 
 
 Blockchain Investor Bearer Token                                                                                                   
 Twitter https://twitter.com/blockchaininv                                                                                          
