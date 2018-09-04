@@ -38,7 +38,11 @@ VK https://vk.com/public86708058
 Tumblr http://cryptortrust.tumblr.com/                                                                                                
 BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary   
 Slack https://cryptortrust.slack.com                                                                                               
-Reddit https://old.reddit.com/r/cryptortrust/                                                                                                                                                                 
+Reddit https://old.reddit.com/r/cryptortrust/                                                                 
+
+Web3                                                                                                                                 
+OpenBazaar ID QmcLfrGiJVXFfzJWSB87tv4GJ7KNPfSw6y2vxJpmyBvpq3
+or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines like  BlockBooth on the web to find us.
 
 Blockchain Investor Bearer Token                                                                                                   
 Twitter https://twitter.com/blockchaininv                                                                                          
