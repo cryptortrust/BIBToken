@@ -46,4 +46,6 @@ Blockchain Investor Bearer Token
 Twitter https://twitter.com/blockchaininv                                                                                          
 Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-                                                                 
 Google+ https://plus.google.com/b/116512527736764720342/                                                                           
-Facebook https://www.facebook.com/blockchaininvestor                                                                                 
+Facebook https://www.facebook.com/blockchaininvestor                                                                                
+https://www.reddit.com/user/blockchaininvestor                                                                                   
+
