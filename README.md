@@ -3,8 +3,8 @@ Ticker "BIB",
 Total Supply 1000.000.000 BIB tokens,
 4 Decimals, Contract BIBToken,
 
-Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor Inc. (former Cryptor Latam Inc.) and 850 millions tokens for future issuing (capital increase) against digital
-assets / currencies. Issuing of these shares is subject to approval of the Board of Directors and General Meeting of Shareholders.
+Tokens allocation as follows: 150 million tokens distributed to current shareholders in Blockchain Investor Inc. (former Cryptor Latam Inc.) reflecting their shareholding, and 850 millions passive tokens for future issuing (capital increase) against digital
+assets / currencies. Issuing of these passive shares is subject to approval of the Board of Directors and General Meeting of Shareholders.                                                                                                           
 
 Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc951ec758873bf7125478
 
