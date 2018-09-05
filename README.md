@@ -23,7 +23,8 @@ VK Group       https://vk.com/club87272980
 
 Blogs                                                                                                                               
 News https://cryptortrust.com/news/news/                                                     
-Blockchain Investor Blog https://cryptortrust.com/bitcoin-investor-blog/                                                               
+Blockchain Investor Blog https://cryptortrust.com/bitcoin-investor-blog/   
+Shareholder/Tokenholder Blog https://cryptortrust.com/investor-relation/blockchain-investor/ (password protected, only for token holders)                                                                   
 
 Pages                                                                                                                    
 Facebook https://www.facebook.com/cryptortrust                                                                                   
