@@ -41,7 +41,7 @@ BitcoinTalk https://bitcointalk.org/index.php?action=profile;u=390958;sa=summary
 Slack https://cryptortrust.slack.com                                                                                               
 Reddit https://old.reddit.com/r/cryptortrust/                                                                 
 
-Web3                                                                                                                                 
+Web3 / dApps                                                                                                                                
 OpenBazaar ID QmcLfrGiJVXFfzJWSB87tv4GJ7KNPfSw6y2vxJpmyBvpq3
 or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines like  BlockBooth on the web to find us.                    
 Blockchain Asset Exchange: To be launched in the 4th quarter 2018.                                                                 
