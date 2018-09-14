@@ -1,3 +1,5 @@
+Blockchain Investor - a global investor in the emerging token economy / Blockchain related assets.                                
+
 Blockchain Investor Bearer Token,
 Ticker "BIB",
 Total Supply 1000.000.000 BIB tokens,
