@@ -49,9 +49,9 @@ or search with our handle ‘@cryptortrust‘ using OpenBazaar search engines li
 Blockchain Asset Exchange: To be launched in the 4th quarter 2018.                                                                 
 
 Blockchain Investor Bearer Token                                                                                                   
-Twitter https://twitter.com/blockchaininv                                                                                          
+Twitter  https://twitter.com/blockchaininv                                                                                          
 Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-                                                                 
-Google+ https://plus.google.com/b/116512527736764720342/                                                                           
+Google+  https://plus.google.com/+BlockchainInvestor                                                                   
 Facebook https://www.facebook.com/blockchaininvestor                                                                                
-Reddit https://www.reddit.com/user/blockchaininvestor                                                                                   
+Reddit   https://www.reddit.com/user/blockchaininvestor                                                                                   
 
