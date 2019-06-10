@@ -32,8 +32,7 @@ Shareholder/Tokenholder Blog https://cryptortrust.com/investor-relation/blockcha
 
 Pages                                                                                                                    
 Facebook https://www.facebook.com/cryptortrust                                                                                   
-Twitter https://twitter.com/CryptorTrust   
-Google https://plus.google.com/+Cryptortrust                                                                                        
+Twitter https://twitter.com/CryptorTrust                                                                                         
 Linkedin https://www.linkedin.com/company/cryptortrust                                                                        
 Feedburner http://feeds.feedburner.com/CryptorTrust                                                      
 Instagram https://www.instagram.com/cryptortrust/                                                                             
