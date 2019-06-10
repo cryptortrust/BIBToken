@@ -19,11 +19,10 @@ Investor Relation https://cryptortrust.com/investor-relation/
 Groups/ Forums                                                                                                                      
                                                                                     
 Linkedin Group https://www.linkedin.com/groups/6580131                                                                               
-Facebook Group https://www.facebook.com/groups/cryptortrust/                                                                          
-Google Group   https://plus.google.com/u/0/communities/105280240699711172540                                                          
-VK Group       https://vk.com/club87272980   
+Facebook Group https://www.facebook.com/groups/cryptortrust/                                                                             VK Group       https://vk.com/club87272980   
 Telegram channel https://t.me/blockchainforum
 Telegram Group   https://t.me/CryptorTrustGroup
+
 
 Blogs                                                                                                                               
 News https://cryptortrust.com/news/news/                                                     
