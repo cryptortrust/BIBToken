@@ -51,8 +51,7 @@ Blockchain Asset Exchange: To be launched in the 4th quarter 2018.
 
 Blockchain Investor Bearer Token                                                                                                   
 Twitter  https://twitter.com/blockchaininv                                                                                          
-Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-                                                                 
-Google+  https://plus.google.com/+BlockchainInvestor                                                                   
+Linkedin https://www.linkedin.com/showcase/blockchain-investor-inc-                                                                                                                         
 Facebook https://www.facebook.com/blockchaininvestor                                                                                
 Reddit   https://www.reddit.com/user/blockchaininvestor                                                                                   
 
