@@ -12,7 +12,7 @@ Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc
 
 
 
-Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange in the 1st quarter 2020.                  
+Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange soon.                  
 Website https://cryptortrust.com/
 Investor Relation https://cryptortrust.com/investor-relation/                                                   
 
