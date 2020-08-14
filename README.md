@@ -12,7 +12,7 @@ Full Contract implemented at https://etherscan.io/address/0x049158da08568d1973dc
 
 
 
-Blokchain Investor Bearer Token to be listed on the Blockchain Asset Exchange soon.                  
+Blokchain Investor Bearer Token listed on Decentralized Exchange (DEX).                  
 Website https://cryptortrust.com/
 Investor Relation https://cryptortrust.com/investor-relation/                                                   
 
